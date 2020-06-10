@@ -6,7 +6,7 @@ require('dotenv').config();
 const userSchema = new mongoose.Schema({
     name:{
         type: String,
-        minlength: 6,
+        minlength: 5,
         maxlength: 50,
         required: true, 
     },
