@@ -1,5 +1,5 @@
 # Vidly API
-## To install Libraries type on terminal:
+## To install required packeges:
   npm install
 
 ### This is simple backen implementation movie rental application using Nodejs 
