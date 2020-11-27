@@ -1,4 +1,4 @@
-# Vidly API
+# Yukon API
 ## To install required packeges:
   ### `npm install`
 
